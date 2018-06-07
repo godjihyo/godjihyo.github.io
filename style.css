@@ -1,7 +1,48 @@
 body {
-    background-color:darkblue ;
-    color:crimson ;
-    font-family:;
-    text-align: right;
-    padding :;
+    background-color: white;
+    color: crimson;
+    text-align: center;
+    font-family: courier;
+    font-size: 25px;
 }
+
+h1 {
+    font-size: 40px
+}
+
+div {
+    background-color: white;
+    font-size: 22px;
+    color: crimson;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: crimson;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
