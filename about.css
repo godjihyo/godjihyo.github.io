@@ -1,6 +1,6 @@
 body {
     background-color: white;
-    color: crimson;
+    color: black;
     text-align: center;
     font-family: courier;
     font-size: 25px;
@@ -12,8 +12,10 @@ h1 {
 
 div {
     background-color: white;
-    font-size: 22px;
-    color: crimson;
+    font-size: 25px;
+    color: black;
+    width: 100px
+    text-align: center;
 }
 
 ul {
@@ -21,7 +23,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: crimson;
+    background-color: black;
 }
 
 li {
@@ -45,7 +47,4 @@ a:link {
     background-color: transparent; 
     text-decoration: none;
 }
-
-
-
 
